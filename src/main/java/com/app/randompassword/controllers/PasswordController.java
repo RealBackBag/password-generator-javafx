@@ -1,5 +1,8 @@
-package com.app.randompassword;
+package com.app.randompassword.controllers;
 
+import com.app.randompassword.models.DatabaseManager;
+import com.app.randompassword.services.PasswordEntry;
+import com.app.randompassword.services.PasswordGenerator;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;

@@ -6,7 +6,7 @@
 
 <VBox xmlns="http://javafx.com/javafx"
       xmlns:fx="http://javafx.com/fxml"
-      fx:controller="com.app.randompassword.PasswordController"
+      fx:controller="com.app.randompassword.controllers.PasswordController"
       stylesheets="@Style.css"
       spacing="15" alignment="TOP_CENTER" prefWidth="680" prefHeight="480">
 

@@ -1,4 +1,6 @@
-package com.app.randompassword;
+package com.app.randompassword.models;
+
+import com.app.randompassword.services.PasswordEntry;
 
 import java.io.*;
 import java.nio.file.*;

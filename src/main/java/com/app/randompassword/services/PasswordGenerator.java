@@ -1,4 +1,4 @@
-package com.app.randompassword;
+package com.app.randompassword.services;
 
 import java.security.SecureRandom;
 

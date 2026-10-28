@@ -1,5 +1,6 @@
 package com.app.randompassword;
 
+import com.app.randompassword.services.PasswordEntry;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
