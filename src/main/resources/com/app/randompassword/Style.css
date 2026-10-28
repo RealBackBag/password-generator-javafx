@@ -1,0 +1,35 @@
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-background-color: #f4f4f4;
+}
+
+/* Boutons */
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5;
+}
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+/* TableView */
+.table-view {
+    -fx-border-color: #ddd;
+    -fx-border-radius: 5;
+    -fx-background-color: white;
+}
+.table-column {
+    -fx-alignment: CENTER;
+}
+
+/* Disponibilité */
+.available {
+    -fx-text-fill: green;
+    -fx-font-weight: bold;
+}
+.unavailable {
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+}
